@@ -1,5 +1,4 @@
-# Project 3 - Web APIs & NLP
-# Comparing Language Between Renewable Energy and Energy Subreddits
+# Using NLP to Compare Language Between Renewable Energy and Energy Subreddits
 Faced with a rapidly changing climate and declining fossil fuel reserves, the shift from traditional fossil fuels to renewable sources of energy (including wind, solar, hydro, geothermal, and bioenergy) becomes increasingly important year to year. The language surrounding this shift, as observed in subreddits r/RenewableEnergy and r/Energy, is reflective of its complex nature. The following analysis of the each subreddit and the comparison between the two subreddits aims to potentially provide insights on the following:
 - Document the current language and public sentiment surrounding each topic.
 - Identify linguistic overlap and differences, potentially identifying language or strategies to be used towards bridging the two subjects and ultimately strengthening support for Renewable Energy.
